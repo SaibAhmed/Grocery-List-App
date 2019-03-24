@@ -1,0 +1,14 @@
+{
+  "name": "grocery-list-app",
+  "version": "1.0.0",
+  "description": "A node js app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saib",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
